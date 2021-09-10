@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @smarv23
-- 👀 I’m took computer science 1 last year
+- 👀 I took computer science 1 last year
 - 🌱 I like to play lacrosse and field hockey.
 - 💞️ I would like to use computer science for practical reasons.
 
